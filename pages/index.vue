@@ -11,15 +11,15 @@
     </div>
 
     <!-- Navigation Cards -->
-    <div class="grid md:grid-cols-2 gap-8 mb-8">
-      <!-- Product Scanner Card -->
+    <!-- <div class="grid md:grid-cols-2 gap-8 mb-8">
+      Product Scanner Card
       <div class="bg-white rounded-lg shadow-lg p-6 border border-gray-200">
         <h2 class="text-2xl font-semibold text-gray-900 mb-4">Product Scanner</h2>
         <p class="text-gray-600 mb-6">Use your camera to scan products and get instant environmental health information.</p>
         <div class="bg-gray-50 rounded-lg p-4">
           <ProductScanner />
         </div>
-      </div>
+      </div> -->
 
       <!-- Environmental Survey Card -->
       <div class="bg-white rounded-lg shadow-lg p-6 border border-gray-200">
